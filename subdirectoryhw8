@@ -1,0 +1,28 @@
+
+
+* What is a backend server? What are 3 good resources for understanding servers? What do you specifically like about those resources?
+    * A backend server deals with what goes on with a website that the client or user doesn’t see and how the website actually works. For example, with Facebook, all the information where it is stored, and pulled from, how data is analyzed all occurs on their back end servers. 
+    * 3 resources I found helpful were: Plurasight- https://www.pluralsight.com/blog/film-games/whats-difference-front-end-back-end, stack overflow http://stackoverflow.com/questions/35256983/authenticate-with-a-backend-server, Wikepedia https://en.wikipedia.org/wiki/Front_and_back_ends,
+    * All three resources are easy to understand especially wikipedia and plurasight. Wikipedia and stack are free as well. 
+
+
+* What is an SQL versus a noSQL database? Why is one preferable to another? Find 2 good blog entries or courses on how to get started with SQL and tell me what you like about them.
+    * Sql Is a  relationtional db where as a nosql is a non relational db. The nosql is commonly associated with document databases, key value stores, column family stores and graph databases. Nosql would be used for data that is not all the same, and more likly asynchronous such as posting a post on facebook. 
+    Where as SQL would be used for reoccuring data that occurs again and again- such as with banks. Nosql is used for social media. 
+    
+    Resources used:
+    * https://docs.microsoft.com/en-us/azure/documentdb/documentdb-nosql-vs-sql provides an understanding of when to use each and what the differences are. 
+* 
+* Where do you go to find help on javascript questions? Let’s say you want to find information on how promises work in ES6. What does that mean? Make a list of at least 3 resources you consulted in finding that answer.
+    * I would go to https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise
+    * A promise is a proxy for a value that at the time may not be known, but could be in the future. Allows you to have a asynchronous action make code behave as a synchronous method. 
+    * Also go to https://developers.google.com/web/fundamentals/getting-started/primers/promises
+    * https://www.codecademy.com/learn/javascript - tutorials that can help with understanding the basics of JS.
+    * 
+* Imagine you are working on a problem with using git to merge files from another contributor on your project. What resources can you find to help you understand git merge? 
+    * http://rogerdudler.github.io/git-guide/ - super basic, super easy to understand. 
+* On your system, what editor gets launched to show merges? How do you use it to edit text, save, and exit?
+
+visual studio gets launched.
+
+
