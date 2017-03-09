@@ -1,0 +1,18 @@
+Resources I can use:
+
+understanding backend server:
+
+https://www.pluralsight.com/blog/film-games/whats-difference-front-end-back-end, stack overflow http://stackoverflow.com/questions/35256983/authenticate-with-a-backend-server, Wikepedia https://en.wikipedia.org/wiki/Front_and_back_ends,
+    
+
+
+Sql or nosql:
+https://docs.microsoft.com/en-us/azure/documentdb/documentdb-nosql-vs-sql provides an understanding of when to use each and what the differences are. 
+
+ES6 Promises:
+https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise
+https://developers.google.com/web/fundamentals/getting-started/primers/promises
+
+Merging on Github:
+http://rogerdudler.github.io/git-guide/ - super basic, super easy to understand. 
+
